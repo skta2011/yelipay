@@ -2,8 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ty</groupId>
   <artifactId>yelipay</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>baseproj</name>
+  <version>1.0</version>
+  <name>yelipay</name>
 	<description>for yeli zfb and wx chongzhi</description>
 	
   <parent>
